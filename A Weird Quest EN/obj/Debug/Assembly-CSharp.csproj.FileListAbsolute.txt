@@ -1,0 +1,2 @@
+E:\MyProject\Game Jam\A Weird Quest\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\MyProject\Indie Games\A Weird Quest EN\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
