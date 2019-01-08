@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Weird Quest", "Assembly-CSharp.csproj", "{06CE5677-E87C-A5B5-4FD9-4733241E15F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Weird Quest", "Assembly-CSharp-Editor.csproj", "{4541D052-3C9A-04E7-3EEF-86BDF5740CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CE5677-E87C-A5B5-4FD9-4733241E15F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CE5677-E87C-A5B5-4FD9-4733241E15F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CE5677-E87C-A5B5-4FD9-4733241E15F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CE5677-E87C-A5B5-4FD9-4733241E15F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4541D052-3C9A-04E7-3EEF-86BDF5740CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4541D052-3C9A-04E7-3EEF-86BDF5740CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4541D052-3C9A-04E7-3EEF-86BDF5740CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4541D052-3C9A-04E7-3EEF-86BDF5740CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
