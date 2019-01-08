@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<component type="level">
+		<level type="levelNum">1</level>
+		<level type="cheat">F</level>
+		<level type="cow">F</level>
+		<level type="pearl">F</level>
+	</component>
+	<component type="achievements">
+	</component>
+</data>
